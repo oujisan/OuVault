@@ -1,9 +1,9 @@
 # [note] Oguri Cap
-
+---
 ![oguri](https://a.storyblok.com/f/178900/1920x1080/a2ed2cb993/umamusumecinderellagray_hero.png)
 
 Hello world for oguri cap in `Trecen Academy`
-```typescropt
+```typescript
 const markdowns = await Promise.all(
   files.map(async (file) => {
     const slug = file.name.replace(/\.md$/, "")

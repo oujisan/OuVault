@@ -2,7 +2,7 @@
 
 ![device_preview](https://res.cloudinary.com/dz1h6jiye/image/upload/v1753705855/device_preview_r6z5dv.png)
 
-> Monday, 28 July 2025
+> Senin, 28 Juli 2025
 
 [Device Preview](https://pub.dev/packages/device_preview) adalah library dari Flutter untuk menampilkan debug aplikasi di berbagai tampilan perangkat mulai dari Handphone, Tablet, dan PC. Dalam memilih device terkadang kita tidak menemukan preview device yang kita inginkan contohnya Samsung Galaxy S25.
 

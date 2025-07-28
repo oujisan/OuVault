@@ -1,9 +1,15 @@
-# [flutter] Device Preview Hidden Devices (Samsung S25)
+# [flutter] Device Preview Samsung S25 in Flutter
 
 ![device_preview](https://res.cloudinary.com/dz1h6jiye/image/upload/v1753705855/device_preview_r6z5dv.png)
 
-[Device Preview](https://pub.dev/packages/device_preview) adalah library dari Flutter untuk menampilkan debug aplikasi di berbagai tampilan perangkat mulai dari Handphone, Tablet, dan PC. Dalam memilih device terkadang kita tidak menemukan device yang kita inginkan contohnya Samsung Galaxy S25.
-Ternyata menu device pada device preview belum menampilkan seluruh device tersedia yang dapat kita coba. sebagai contoh, series samsung yang ada hanya sampai Samsung Galay S20.
+> Monday, 28 Juli 2025
+
+[Device Preview](https://pub.dev/packages/device_preview) adalah library dari Flutter untuk menampilkan debug aplikasi di berbagai tampilan perangkat mulai dari Handphone, Tablet, dan PC. Dalam memilih device terkadang kita tidak menemukan preview device yang kita inginkan contohnya Samsung Galaxy S25.
+
+Ternyata menu device ketika debugging pada device preview belum ada opsi pilihan Samsung S25 series (hanya sampai Samsung S20 series saja).
+Apakah bisa kita menggunakan preview device dari Samsung S25? Tentu saja bisa!
+
+Sayangnya, opsi yang tersedia masih sampai Samsung Galaxy 25 reguler saja pada versi `1.3.1`. Tapi, kamu masih bisa menggunakan variasi model lain seperti `onePlus8Pro`, `GooglePixel9`, dll.
 
 Kamu bisa menemukan pilihan Samsung Galaxy S25 pada IntelliSense code.
 ![screenshoot_code](https://res.cloudinary.com/dz1h6jiye/image/upload/v1753707861/Screenshot_2025-07-28_195049_ekqpfr.png)

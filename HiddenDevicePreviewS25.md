@@ -35,8 +35,8 @@ void main() {
 . . .
 ```
 
-Menggunakan parameter `defaultDevices`, kita menetapkan devices yang akan muncul ketika debug adalah Samsung Galaxy S25. Kita bisa eksplorasi dengan mengganti properti `android` dengan `ios`, `linux`, `macOS` atau `windows`.
+Menggunakan parameter `defaultDevices`, kita menetapkan devices yang akan dipakai ketika debug adalah Samsung Galaxy S25. Kita bisa eksplorasi dengan mengganti properti `android` dengan `ios`, `linux`, `macOS` atau `windows`.
 
-Dengan ini device yang akan muncul ketika `debug` adalah Samsung Galaxy S25, tentu saja kita masih bisa mengganti device ketika debug seperti biasa.
+Dengan ini device yang akan dipakai secara default ketika `debug` adalah Samsung Galaxy S25, tentu saja kita masih bisa mengganti device ketika debug seperti biasa.
 
 ![debug](https://res.cloudinary.com/dz1h6jiye/image/upload/v1753707897/Screenshot_2025-07-28_194828_p0y56z.png)

@@ -1,6 +1,6 @@
 # [flutter] Device Preview Samsung S25 in Flutter
 
-![device_preview](https://res.cloudinary.com/dz1h6jiye/image/upload/v1753705855/device_preview_r6z5dv.png)
+![device_preview](https://raw.githubusercontent.com/oujisan/OuVault/main/img/device-preview.png)
 
 > Senin, 28 Juli 2025
 

@@ -3,7 +3,7 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## Union Types
-
+---
 Union types memungkinkan variable menerima lebih dari satu tipe.
 
 ```typescript
@@ -58,7 +58,7 @@ function format(value: string | number): string {
 ```
 
 ## Intersection Types
-
+---
 Intersection types menggabungkan multiple types menjadi satu.
 
 ```typescript
@@ -134,7 +134,7 @@ const user: UserWithTimestamp = {
 ```
 
 ## Type Guards
-
+---
 Type guards membantu TypeScript memahami tipe yang lebih spesifik dalam runtime.
 
 ```typescript
@@ -220,7 +220,7 @@ function handleUser(user: User | Admin): void {
 ```
 
 ## Mapped Types
-
+---
 Mapped types memungkinkan kita membuat tipe baru berdasarkan tipe yang sudah ada.
 
 ```typescript
@@ -278,7 +278,7 @@ type UserStringKeys = StringKeys<User>;
 ```
 
 ## Conditional Types
-
+---
 Conditional types memilih tipe berdasarkan kondisi.
 
 ```typescript
@@ -341,7 +341,7 @@ type DeepReadonlyNested = DeepReadonly<NestedObject>;
 ```
 
 ## Template Literal Types
-
+---
 Template literal types memungkinkan kita membuat tipe string yang sophisticated.
 
 ```typescript
@@ -391,7 +391,7 @@ type CamelCase2 = SnakeToCamelCase<"api_key_secret">;   // "apiKeySecret"
 ```
 
 ## Utility Types
-
+---
 TypeScript menyediakan banyak utility types built-in untuk transformasi tipe.
 
 ```typescript
@@ -485,6 +485,7 @@ type CarInstance = InstanceType<typeof Car>;
 ```
 
 ## Practical Advanced Type Examples
+---
 
 ```typescript
 // Deep object path type

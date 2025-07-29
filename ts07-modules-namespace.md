@@ -3,9 +3,8 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## ES6 Modules
-
+---
 TypeScript mendukung ES6 module syntax yang merupakan standar modern untuk organizing code.
-
 ### Basic Export/Import
 
 ```typescript
@@ -138,7 +137,7 @@ const productService = new ProductService();
 ```
 
 ## Module Resolution
-
+---
 TypeScript memiliki berbagai strategi untuk resolving modules.
 
 ### Relative vs Non-relative Imports
@@ -184,7 +183,7 @@ import { UserService } from '../../services/UserService';
 ```
 
 ## Dynamic Imports
-
+---
 Dynamic imports memungkinkan loading modules secara asinkron.
 
 ```typescript
@@ -238,7 +237,7 @@ async function loadUserDashboard() {
 ```
 
 ## Module Augmentation
-
+---
 Module augmentation memungkinkan kita menambahkan deklarasi ke existing modules.
 
 ```typescript
@@ -303,7 +302,7 @@ import { originalFunction, ourExtension } from 'original-lib';
 ```
 
 ## Namespaces (Legacy)
-
+---
 Meskipun ES6 modules lebih direkomendasikan, namespaces masih berguna dalam beberapa kasus.
 
 ```typescript
@@ -364,7 +363,7 @@ const midpoint = GeomUtils.midpoint(point1, point2);
 ```
 
 ## Triple-Slash Directives
-
+---
 Triple-slash directives memberikan instruksi kepada compiler.
 
 ```typescript
@@ -395,7 +394,7 @@ export function myFunction() {
 ```
 
 ## Practical Module Patterns
-
+---
 ### Plugin Architecture
 
 ```typescript

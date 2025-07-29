@@ -3,9 +3,8 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## Primitive Types
-
+---
 TypeScript mendukung semua tipe primitif JavaScript dengan tambahan type annotation.
-
 ### String
 
 ```typescript
@@ -48,7 +47,7 @@ let maybeNumber: number | undefined = undefined;
 ```
 
 ## Array Types
-
+---
 ### Basic Array Syntax
 
 ```typescript
@@ -74,7 +73,7 @@ let length: number = fruits.length;
 ```
 
 ## Object Types
-
+---
 ### Object Literal Types
 
 ```typescript
@@ -113,7 +112,7 @@ let user: {
 ```
 
 ## Function Types
-
+---
 ### Function Declarations
 
 ```typescript
@@ -154,7 +153,7 @@ calculator = divide;   // ✓ Valid
 ```
 
 ## Union Types
-
+---
 Union types memungkinkan variable memiliki lebih dari satu tipe.
 
 ```typescript
@@ -179,7 +178,7 @@ function printId(id: string | number): void {
 ```
 
 ## Type Aliases
-
+---
 Type aliases membantu membuat kode lebih readable dan reusable.
 
 ```typescript
@@ -212,7 +211,7 @@ let handleClick: EventHandler = (event) => {
 ```
 
 ## Literal Types
-
+---
 Literal types memungkinkan kita menentukan nilai eksak yang bisa diterima.
 
 ```typescript

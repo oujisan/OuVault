@@ -15,10 +15,10 @@ TypeScript adalah bahasa pemrograman yang dikembangkan oleh Microsoft sebagai su
 - **Modern JavaScript Features**: Mendukung fitur ES6+ bahkan untuk target yang lebih lama
 
 ## Installation & Setup
-
+---
 ### Installing TypeScript
 
-```typescript
+```bash
 // Global installation
 npm install -g typescript
 
@@ -50,7 +50,7 @@ tsc --init
 
 ### Basic Compilation
 
-```typescript
+```bash
 // Compile single file
 tsc app.ts
 
@@ -62,7 +62,7 @@ tsc --watch
 ```
 
 ## Your First TypeScript File
-
+---
 ```typescript
 // hello.ts
 function greet(name: string): string {
@@ -88,7 +88,7 @@ console.log(greet(userName));
 ```
 
 ## Development Workflow
-
+---
 ### Recommended Setup
 
 1. **Code Editor**: Visual Studio Code dengan TypeScript extension

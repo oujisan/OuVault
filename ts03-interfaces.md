@@ -3,11 +3,11 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## What are Interfaces?
-
+---
 Interface adalah cara untuk mendefinisikan struktur object dalam TypeScript. Berbeda dengan type aliases, interface lebih fokus pada shape of objects dan bisa di-extend. Interface sangat berguna untuk mendefinisikan kontrak yang harus dipenuhi oleh object atau class.
 
 ## Basic Interface
-
+---
 ```typescript
 // Interface definition
 interface User {
@@ -32,7 +32,7 @@ function displayUser(user: User): void {
 ```
 
 ## Optional Properties
-
+---
 Property yang tidak wajib ada bisa ditandai dengan `?`.
 
 ```typescript
@@ -63,7 +63,7 @@ const product2: Product = {
 ```
 
 ## Readonly Properties
-
+---
 Property yang tidak bisa diubah setelah object dibuat.
 
 ```typescript
@@ -84,7 +84,7 @@ appConfig.timeout = 10000; // ✓ Valid
 ```
 
 ## Function Properties
-
+---
 Interface bisa mendefinisikan method atau function properties.
 
 ```typescript
@@ -113,7 +113,7 @@ const calculator: Calculator = {
 ```
 
 ## Index Signatures
-
+---
 Untuk object dengan property names yang dinamis.
 
 ```typescript
@@ -151,7 +151,7 @@ interface FlexibleObject {
 ```
 
 ## Extending Interfaces
-
+---
 Interface bisa meng-extend interface lain untuk reusability.
 
 ```typescript
@@ -187,7 +187,7 @@ const myDog: ServiceDog = {
 ```
 
 ## Interface vs Type Aliases
-
+---
 Meskipun mirip, ada perbedaan penting antara interface dan type aliases.
 
 ```typescript
@@ -223,7 +223,7 @@ type ID = string | number;
 ```
 
 ## Generic Interfaces
-
+---
 Interface bisa menggunakan generics untuk fleksibilitas yang lebih besar.
 
 ```typescript
@@ -273,7 +273,7 @@ class BookRepository implements Repository<Book> {
 ```
 
 ## Interface for Classes
-
+---
 Interface bisa digunakan sebagai kontrak yang harus diimplementasikan oleh class.
 
 ```typescript

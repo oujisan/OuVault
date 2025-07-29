@@ -3,10 +3,11 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## What are Generics?
-
+---
 Generics memungkinkan kita membuat komponen yang bisa bekerja dengan berbagai tipe data sambil tetap mempertahankan type safety. Dengan generics, kita bisa menulis kode yang reusable dan flexible tanpa kehilangan informasi tipe.
 
 ## Basic Generic Functions
+---
 
 ```typescript
 // Function tanpa generics - tidak flexible

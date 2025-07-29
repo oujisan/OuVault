@@ -3,7 +3,7 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## Basic Class Syntax
-
+---
 TypeScript classes menambahkan fitur type safety dan access modifiers ke ES6 classes.
 
 ```typescript
@@ -40,7 +40,7 @@ person1.celebrateBirthday(); // "Happy birthday! Now 26 years old"
 ```
 
 ## Access Modifiers
-
+---
 TypeScript menyediakan tiga access modifier untuk mengontrol visibility properties dan methods.
 
 ### Public (Default)
@@ -146,7 +146,7 @@ console.log(dog.getInfo()); // ✓ "Buddy is a Golden Retriever (Canine)"
 ```
 
 ## Constructor Shorthand
-
+---
 TypeScript menyediakan syntax shorthand untuk properties dalam constructor.
 
 ```typescript
@@ -184,7 +184,7 @@ console.log(student.getAge()); // ✓ 20
 ```
 
 ## Getters and Setters
-
+---
 ```typescript
 class Temperature {
     private _celsius: number = 0;
@@ -221,7 +221,7 @@ console.log(temp.celsius);    // 37.77777777777778
 ```
 
 ## Static Members
-
+---
 Static properties dan methods belong ke class itself, bukan ke instance.
 
 ```typescript
@@ -259,7 +259,7 @@ console.log(MathHelper.getInstanceCount()); // 2
 ```
 
 ## Abstract Classes
-
+---
 Abstract classes tidak bisa di-instantiate langsung dan biasanya digunakan sebagai base class.
 
 ```typescript
@@ -325,7 +325,7 @@ circle.displayInfo();    // "Color: red, Area: 28.274333882308138"
 ```
 
 ## Implementing Interfaces
-
+---
 Classes bisa mengimplementasi satu atau lebih interfaces.
 
 ```typescript
@@ -367,7 +367,7 @@ duck.quack(); // "Donald says: Quack!"
 ```
 
 ## Generic Classes
-
+---
 Classes bisa menggunakan generics untuk type flexibility.
 
 ```typescript

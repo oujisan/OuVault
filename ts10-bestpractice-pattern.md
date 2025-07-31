@@ -3,7 +3,7 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## Type Safety Best Practices
-
+---
 ### Prefer Type Assertions Over Any
 
 ```typescript
@@ -126,7 +126,7 @@ function processValue<T extends string | number>(value: T): string {
 ```
 
 ## Interface and Type Design
-
+---
 ### Composition Over Inheritance
 
 ```typescript
@@ -274,7 +274,7 @@ function handleUserState(state: AsyncState<User[]>) {
 ```
 
 ## Error Handling Patterns
-
+---
 ### Result Pattern for Error Handling
 
 ```typescript
@@ -401,7 +401,7 @@ function getOrElse<T>(option: Option<T>, defaultValue: T): T {
 ```
 
 ## Performance Patterns
-
+---
 ### Lazy Loading with Generics
 
 ```typescript
@@ -518,7 +518,7 @@ function memoizeAsync<Args extends unknown[], Return>(
 ```
 
 ## Design Patterns
-
+---
 ### Builder Pattern
 
 ```typescript

@@ -19,7 +19,7 @@ Decorators adalah fitur experimental di TypeScript yang memungkinkan kita menamb
 ```
 
 ## Class Decorators
-
+---
 Class decorators diaplikasikan ke constructor dari class dan bisa modify atau replace class definition.
 
 ```typescript
@@ -81,7 +81,7 @@ console.log((user as any).timestamp); // Date object
 ```
 
 ## Method Decorators
-
+---
 Method decorators diaplikasikan ke method declarations dan bisa modify method behavior.
 
 ```typescript
@@ -162,7 +162,7 @@ class ApiService {
 ```
 
 ## Property Decorators
-
+---
 Property decorators diaplikasikan ke property declarations.
 
 ```typescript
@@ -286,7 +286,7 @@ userModel.name = 'Jane'; // "Name changed from "John" to "Jane""
 ```
 
 ## Parameter Decorators
-
+---
 Parameter decorators diaplikasikan ke parameters dalam method atau constructor.
 
 ```typescript
@@ -357,7 +357,7 @@ orderService.createOrder(1, []); // ✓ Valid
 ```
 
 ## Decorator Composition
-
+---
 Multiple decorators bisa digunakan pada target yang sama.
 
 ```typescript
@@ -403,7 +403,7 @@ class Example {
 ```
 
 ## Practical Decorator Examples
-
+---
 ### Caching Decorator
 
 ```typescript
@@ -639,7 +639,7 @@ console.log(result);
 ```
 
 ## Reflect Metadata API
-
+---
 Untuk decorators yang lebih advanced, kita sering menggunakan reflect-metadata library.
 
 ```typescript
@@ -847,7 +847,7 @@ userService.getUsers();
 ```
 
 ## Best Practices
-
+---
 ```typescript
 // 1. Keep decorators simple and focused
 function SimpleLog(target: any, propertyName: string, descriptor: PropertyDescriptor) {

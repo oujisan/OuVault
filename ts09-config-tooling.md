@@ -3,6 +3,7 @@
 ![ts-fundamental](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ts.png)
 
 ## TSConfig.json
+---
 
 File konfigurasi utama TypeScript yang mengontrol bagaimana TypeScript compiler bekerja.
 
@@ -189,7 +190,7 @@ Untuk monorepo atau large projects dengan multiple packages.
 ```
 
 ## Compiler Options Deep Dive
-
+---
 ### Type Checking Options
 
 ```typescript
@@ -301,9 +302,8 @@ import React from 'react';           // With allowSyntheticDefaultImports
 ```
 
 ## ESLint Integration
-
+---
 Combining TypeScript with ESLint for comprehensive code quality.
-
 ### Installation
 
 ```typescript
@@ -387,7 +387,7 @@ npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
 ```
 
 ## Build Tools Integration
-
+---
 ### Webpack Configuration
 
 ```typescript
@@ -535,7 +535,7 @@ export default {
 ```
 
 ## Testing Configuration
-
+---
 ### Jest with TypeScript
 
 ```typescript
@@ -601,6 +601,7 @@ describe('Math utilities', () => {
 ```
 
 ## Package.json Scripts
+---
 
 ```typescript
 // package.json
@@ -682,7 +683,7 @@ describe('Math utilities', () => {
 ```
 
 ## Environment-Specific Configurations
-
+---
 ### Development vs Production
 
 ```typescript
@@ -792,7 +793,7 @@ describe('Math utilities', () => {
 ```
 
 ## Advanced Tooling
-
+---
 ### TypeScript Compiler API
 
 ```typescript
@@ -1005,7 +1006,7 @@ export const config = loadConfig();
 ```
 
 ## Performance Optimization
-
+---
 ### Compilation Performance
 
 ```typescript

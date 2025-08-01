@@ -6,7 +6,7 @@
 ---
 `CheckboxListTile` adalah kombinasi dari `ListTile` dan `Checkbox`. Ini adalah widget yang dirancang untuk menampilkan item daftar dengan kotak centang di dalamnya, ideal untuk daftar tugas atau opsi yang dapat dipilih.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/CheckboxListTile-class.html](https://api.flutter.dev/flutter/material/CheckboxListTile-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/CheckboxListTile-class.html).
 
 ## Methods and Parameters
 ---

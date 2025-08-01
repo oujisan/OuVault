@@ -5,7 +5,7 @@
 ---
 Widget ini memungkinkan Anda untuk memberikan ukuran pilihan (`preferredSize`) kepada anak widgetnya. Ini sangat berguna ketika Anda ingin membuat `AppBar` dengan tinggi kustom.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/widgets/PreferredSize-class.html](https://api.flutter.dev/flutter/widgets/PreferredSize-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/widgets/PreferredSize-class.html).
 
 ## Method and Function
 ---

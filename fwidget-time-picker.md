@@ -6,7 +6,7 @@
 ---
 `showTimePicker` adalah fungsi yang menampilkan dialog pop-up yang memungkinkan pengguna untuk memilih satu waktu. Dialog ini menampilkan jam dan menit dalam format yang mudah digunakan.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/showTimePicker.html](https://api.flutter.dev/flutter/material/showTimePicker.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/showTimePicker.html).
 
 ## Methods and Parameters
 ---

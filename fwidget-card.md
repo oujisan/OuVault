@@ -6,7 +6,7 @@
 ---
 `Card` adalah wadah yang menampilkan informasi terkait dalam satu blok. Ini memiliki sudut membulat dan bayangan (elevasi) yang memberikan efek 3D, membuatnya menonjol dari latar belakang.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/Card-class.html](https://api.flutter.dev/flutter/material/Card-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/Card-class.html).
 
 ## Methods and Parameters
 ---

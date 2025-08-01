@@ -6,7 +6,7 @@
 ---
 `showDatePicker` adalah fungsi yang menampilkan dialog pop-up yang memungkinkan pengguna untuk memilih satu tanggal. Ini ideal untuk formulir atau fitur yang memerlukan input tanggal yang spesifik, seperti tanggal lahir atau tanggal reservasi.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/showDatePicker.html](https://api.flutter.dev/flutter/material/showDatePicker.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/showDatePicker.html).
 
 ## Methods and Parameters
 ---

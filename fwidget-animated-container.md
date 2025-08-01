@@ -6,7 +6,7 @@
 ---
 `AnimatedContainer` adalah wadah (`Container`) yang secara otomatis menganimasikan perubahannya. Ketika Anda mengubah properti seperti warna, tinggi, atau lebar, widget ini akan melakukan transisi secara halus ke nilai baru.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html).
 
 ## Methods and Parameters
 ---

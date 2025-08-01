@@ -6,7 +6,7 @@
 ---
 `CupertinoContextMenu` adalah widget yang menampilkan menu konteks gaya iOS saat widget anaknya ditekan dan ditahan (long press). Menu ini muncul dengan efek animasi yang halus.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/cupertino/CupertinoContextMenu-class.html](https://api.flutter.dev/flutter/cupertino/CupertinoContextMenu-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/cupertino/CupertinoContextMenu-class.html).
 
 ## Methods and Parameters
 ---

@@ -6,7 +6,7 @@
 ---
 `InteractiveViewer` memungkinkan pengguna untuk memperbesar (zoom), menggeser (pan), atau memutar (rotate) widget anaknya. Ini sangat berguna untuk menampilkan gambar, peta, atau diagram yang lebih besar dari layar.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html).
 
 ## Methods and Parameters
 ---

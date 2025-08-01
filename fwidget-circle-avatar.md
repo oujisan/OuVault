@@ -6,7 +6,7 @@
 ---
 `CircleAvatar` adalah widget yang menampilkan avatar melingkar. Ini sering digunakan untuk gambar profil pengguna, inisial nama, atau placeholder.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/CircleAvatar-class.html](https://api.flutter.dev/flutter/material/CircleAvatar-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/CircleAvatar-class.html).
 
 ## Methods and Parameters
 ---

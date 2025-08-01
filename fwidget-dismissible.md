@@ -6,7 +6,7 @@
 ---
 `Dismissible` adalah widget yang memungkinkan pengguna untuk menutup (dismiss) atau menghapus widget anaknya dengan menggesernya ke samping. Ini sangat umum digunakan untuk menghapus item dari daftar (list).
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/widgets/Dismissible-class.html](https://api.flutter.dev/flutter/widgets/Dismissible-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/widgets/Dismissible-class.html).
 
 ## Methods and Parameters
 ---

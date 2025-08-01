@@ -6,7 +6,7 @@
 ---
 `BottomSheet` menampilkan lembar modal dari bagian bawah layar. Ini sering digunakan untuk menampilkan menu, opsi, atau informasi tambahan tanpa berpindah layar. Ada dua jenis utama: `showModalBottomSheet` (yang memblokir interaksi dengan widget lain) dan `showBottomSheet` (yang tidak memblokir).
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/showModalBottomSheet.html](https://api.flutter.dev/flutter/material/showModalBottomSheet.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/showModalBottomSheet.html).
 
 ## Methods and Parameters
 ---

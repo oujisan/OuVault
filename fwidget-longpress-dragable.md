@@ -6,7 +6,7 @@
 ---
 Widget ini memungkinkan widget anak untuk diseret (drag) setelah ditekan dan ditahan (long press). Ini adalah bagian dari sistem drag-and-drop di Flutter, yang biasanya digunakan bersama dengan `DragTarget`.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/widgets/LongPressDraggable-class.html](https://api.flutter.dev/flutter/widgets/LongPressDraggable-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/widgets/LongPressDraggable-class.html).
 
 ## Methods and Parameters
 ---

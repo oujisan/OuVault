@@ -6,8 +6,8 @@
 ---
 Widget ini menampilkan pesan non-intrusif di bagian atas layar. Widget ini berguna untuk memberikan informasi penting kepada pengguna tanpa mengganggu alur kerja mereka secara berlebihan, dan dapat ditutup.
 
-Lihat dokumentasi resmi Flutter:;
- [https://api.flutter.dev/flutter/material/MaterialBanner-class.html](https://api.flutter.dev/flutter/material/MaterialBanner-class.html).
+Lihat dokumentasi resmi Flutter:
+ [docs](https://api.flutter.dev/flutter/material/MaterialBanner-class.html).
 
 ## Metode dan Fungsi
 ---

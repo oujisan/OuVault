@@ -6,7 +6,7 @@
 ---
 `AlertDialog` adalah widget yang menampilkan dialog pop-up yang memberi tahu pengguna tentang suatu situasi dan dapat meminta mereka untuk membuat keputusan. Ini biasanya digunakan untuk pesan peringatan atau konfirmasi penting.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/AlertDialog-class.html](https://api.flutter.dev/flutter/material/AlertDialog-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/AlertDialog-class.html).
 
 ## Methods and Parameters
 ---

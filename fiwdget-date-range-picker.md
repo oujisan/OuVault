@@ -6,7 +6,7 @@
 ---
 `showDateRangePicker` adalah fungsi yang menampilkan dialog pop-up yang memungkinkan pengguna untuk memilih rentang tanggal, yaitu tanggal mulai dan tanggal akhir. Ini sering digunakan untuk fitur seperti pemesanan liburan atau pemilihan periode laporan.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/showDateRangePicker.html](https://api.flutter.dev/flutter/material/showDateRangePicker.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/showDateRangePicker.html).
 
 ## Methods and Parameters
 ---

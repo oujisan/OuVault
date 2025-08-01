@@ -6,7 +6,7 @@
 ---
 `ReorderableListView` membuat daftar item yang dapat digulir dan item-item di dalamnya dapat diatur ulang (reorder) oleh pengguna melalui interaksi menyeret.
 
-Lihat dokumentasi resmi Flutter di [https://api.flutter.dev/flutter/material/ReorderableListView-class.html](https://api.flutter.dev/flutter/material/ReorderableListView-class.html).
+Lihat dokumentasi resmi Flutter di [docs](https://api.flutter.dev/flutter/material/ReorderableListView-class.html).
 
 ## Methods and Parameters
 ---

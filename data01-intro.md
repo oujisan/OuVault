@@ -1,4 +1,4 @@
-# [ai] #01 - Data World Introduction
+# [data] #01 - Data World Introduction
 
 ![data](https://raw.githubusercontent.com/oujisan/OuVault/main/img/data.png)
 

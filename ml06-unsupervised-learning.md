@@ -1,4 +1,5 @@
-# [ai] #06 - ML Unsupervised Learning ![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
+# [ai] #06 - ML Unsupervised Learning 
+![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
 
 ## Understanding Unsupervised Learning
 

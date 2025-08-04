@@ -1,4 +1,5 @@
-# [ai] #05 - ML Ensemble Methods ![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
+# [ai] #05 - ML Ensemble Methods 
+![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
 
 ## Understanding Ensemble Methods
 

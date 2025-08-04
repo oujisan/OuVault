@@ -1,4 +1,6 @@
-# [ai] #03 - ML Supervised Learning - Regression ![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
+# [ai] #03 - ML Supervised Learning - Regression 
+
+![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
 
 ## Understanding Regression
 

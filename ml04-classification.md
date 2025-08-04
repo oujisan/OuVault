@@ -1,4 +1,5 @@
-# [ai] #04 - ML Supervised Learning - Classification ![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
+# [ai] #04 - ML Supervised Learning - Classification 
+![ml](https://raw.githubusercontent.com/oujisan/OuVault/main/img/ml.png)
 
 ## Understanding Classification
 

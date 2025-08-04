@@ -1,4 +1,4 @@
-# [ai] #02 - ML Data Manipulation with NumPy and Pandas
+# [data] #02 - Data Manipulation with NumPy and Pandas
 
 ![data](https://raw.githubusercontent.com/oujisan/OuVault/main/img/data.png)
 

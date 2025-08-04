@@ -1,4 +1,4 @@
-# [ai] #03 - ML Descriptive Statistics
+# [data] #03 - Data Descriptive Statistics
 
 ![data](https://raw.githubusercontent.com/oujisan/OuVault/main/img/data.png)
 

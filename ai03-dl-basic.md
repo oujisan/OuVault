@@ -1,4 +1,4 @@
-# [python] #03 - AI Deep Learning & Neural Networks
+# [ai] #03 - AI Deep Learning & Neural Networks
 ![deep-learning](https://raw.githubusercontent.com/oujisan/OuVault/main/img/py-ai.png)
 
 ## Introduction to Deep Learning

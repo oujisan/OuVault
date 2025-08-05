@@ -1,4 +1,4 @@
-# [python] #02 - AI Machine Learning Basics
+# [ai] #02 - AI Machine Learning Basics
 ![banner](https://raw.githubusercontent.com/oujisan/OuVault/main/img/py-ai.png)
 ## Introduction to Machine Learning
 

@@ -1,4 +1,4 @@
-# [python] #01 - AI Introduction & Fundamentals
+# [ai] #01 - AI Introduction & Fundamentals
 ![banner](https://raw.githubusercontent.com/oujisan/OuVault/main/img/py-ai.png)
 ## What is Artificial Intelligence?
 

@@ -1,4 +1,4 @@
-# [python] #04 - AI Computer Vision 
+ # [ai] #04 - AI Computer Vision 
 ![computer-vision](https://raw.githubusercontent.com/oujisan/OuVault/main/img/py-ai.png)
 ## Introduction to Computer Vision
 

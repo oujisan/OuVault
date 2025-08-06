@@ -1,4 +1,4 @@
-# [ai] #05 - ML Data Distributions
+# [data] #05 - Data Distributions
 
 ![data](https://raw.githubusercontent.com/oujisan/OuVault/main/img/data.png)
 
